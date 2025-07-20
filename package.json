@@ -1,0 +1,28 @@
+{
+  "name": "zayra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhelionetomacedo/zayra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jhelionetomacedo/zayra/issues"
+  },
+  "homepage": "https://github.com/jhelionetomacedo/zayra#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "request": "^2.88.2",
+    "tmi.js": "^1.8.5"
+  }
+}
